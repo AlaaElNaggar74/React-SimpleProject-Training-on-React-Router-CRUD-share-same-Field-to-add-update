@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Yousif",
+      "auther": "Zalmokaqw",
+      "age": "29",
+      "user": "Alaa"
+    },
+    {
+      "id": 3,
+      "title": "dsada789",
+      "auther": "dsadffd",
+      "age": "asd",
+      "user": "Alaa"
+    },
+    {
+      "id": 4,
+      "title": "qwe5369***",
+      "auther": "123",
+      "age": "18",
+      "user": "Alaa"
+    }
+  ]
+}
